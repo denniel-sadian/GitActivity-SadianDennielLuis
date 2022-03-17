@@ -1,3 +1,6 @@
 print('Denniel Luis S. Sadian')
 print('Cabugao, Gasan, Marinduque')
 print('November 30, 2001')
+print('Marinduque State College - School of Information and Computing Sciences')
+print('Information Technology')
+print('2nd Year BSIT-2F')
